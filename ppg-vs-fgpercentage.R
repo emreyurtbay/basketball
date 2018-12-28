@@ -1,4 +1,4 @@
-# Basketball Visualization
+# Basketball Visualization - ppg vs. fg%
 # data : /Users/emreyurtbay/Documents/Datasets/bball12-19-18.csv
 
 ################################################################################
